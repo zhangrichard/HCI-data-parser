@@ -1,0 +1,80 @@
+
+                         DATA FOR PHYSICAL EXPERIENCE (SEQUENCE OF 8 COLORS)
+
+
+NAME:1
+!!!!ROUND0: 8039 Ms [|GREEN|GREEN|Red|Yellow|Red|GREEN|Red|Yellow|]
+ROUND1: 1567 Ms [|GREEN|GREEN|GREEN|GREEN|GREEN|GREEN|Yellow|Red|]
+!!!!ROUND2: 2400 Ms [|GREEN|Yellow|GREEN|Red|Yellow|Red|Red|Red|]
+ROUND3: 2112 Ms [|GREEN|GREEN|Red|Yellow|Yellow|Red|GREEN|Yellow|]
+ROUND4: 1055 Ms [|Red|Yellow|Yellow|Yellow|GREEN|GREEN|GREEN|GREEN|]
+!!!!!ROUND5: 1794 Ms [|Red|Yellow|GREEN|Red|GREEN|GREEN|Yellow|Yellow|]
+!!!!!ROUND6: 2767 Ms [|Red|GREEN|Yellow|Red|Red|Yellow|Yellow|Red|]
+************************************************************************************
+NAME:2
+ROUND0: 1718 Ms [|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|GREEN|]
+ROUND1: 1351 Ms [|Red|Yellow|Yellow|Red|Yellow|GREEN|GREEN|GREEN|]
+ROUND2: 1718 Ms [|Red|Yellow|GREEN|Yellow|Yellow|Yellow|Red|Yellow|]
+ROUND3: 2311 Ms [|Yellow|Yellow|GREEN|Red|GREEN|Yellow|Red|Yellow|]
+ROUND4: 1410 Ms [|GREEN|GREEN|Red|GREEN|Yellow|Yellow|GREEN|GREEN|]
+ROUND5: 1113 Ms [|GREEN|GREEN|GREEN|Red|Red|GREEN|Red|Red|]
+ROUND6: 802 Ms [|Red|Red|Red|Red|GREEN|GREEN|GREEN|Red|]
+************************************************************************************
+NAME:3
+ROUND0: 1216 Ms [|GREEN|GREEN|GREEN|GREEN|Yellow|Yellow|Yellow|GREEN|]
+ROUND1: 1342 Ms [|Red|Red|Yellow|Yellow|GREEN|Red|Red|GREEN|]
+ROUND2: 1724 Ms [|Yellow|Red|GREEN|GREEN|GREEN|Yellow|Yellow|Yellow|]
+ROUND3: 1117 Ms [|GREEN|Yellow|Yellow|Yellow|Yellow|GREEN|GREEN|Red|]
+ROUND4: 1517 Ms [|Red|Yellow|GREEN|Yellow|Yellow|Yellow|Red|Yellow|]
+ROUND5: 1055 Ms [|Yellow|GREEN|GREEN|GREEN|GREEN|Red|Yellow|Yellow|]
+ROUND6: 2272 Ms [|Red|GREEN|Yellow|Red|Yellow|GREEN|Yellow|Yellow|]
+************************************************************************************
+NAME:4
+ROUND0: 522 Ms [|GREEN|GREEN|GREEN|GREEN|GREEN|GREEN|GREEN|GREEN|]
+ROUND1: 1310 Ms [|GREEN|Red|Red|Red|Yellow|Yellow|Yellow|GREEN|]
+ROUND2: 1203 Ms [|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|Yellow|]
+!!!!!!!ROUND3: 1442 Ms [|GREEN|GREEN|GREEN|GREEN|Yellow|Yellow|Yellow|GREEN|]
+ROUND4: 1139 Ms [|Red|Red|Red|Yellow|Yellow|Yellow|Yellow|Yellow|]
+ROUND5: 2069 Ms [|Red|GREEN|Yellow|Red|GREEN|GREEN|GREEN|Red|]
+ROUND6: 1662 Ms [|Red|Red|GREEN|GREEN|Red|Red|GREEN|GREEN|]
+************************************************************************************
+NAME:5
+ROUND0: 3969 Ms [|Red|GREEN|Red|Yellow|Yellow|Yellow|GREEN|Yellow|]
+ROUND1: 3789 Ms [|Red|Yellow|Yellow|GREEN|Red|GREEN|GREEN|Yellow|]
+ROUND2: 953 Ms [|GREEN|GREEN|GREEN|GREEN|GREEN|GREEN|GREEN|Yellow|]
+ROUND3: 1615 Ms [|Red|Yellow|GREEN|GREEN|GREEN|GREEN|Red|Red|]
+ROUND4: 2791 Ms [|GREEN|Red|GREEN|GREEN|GREEN|GREEN|Yellow|GREEN|]
+ROUND5: 1146 Ms [|Red|GREEN|GREEN|GREEN|Red|GREEN|GREEN|GREEN|]
+ROUND6: 1863 Ms [|Red|Red|Yellow|GREEN|GREEN|GREEN|Yellow|Yellow|]
+************************************************************************************
+NAME:6
+ROUND0: 2183 Ms [|Red|GREEN|Yellow|GREEN|Red|Red|GREEN|Yellow|]
+ROUND1: 1843 Ms [|Red|Yellow|Yellow|Red|Yellow|Red|Yellow|Red|]
+ROUND2: 2158 Ms [|Yellow|Red|Red|GREEN|Yellow|Yellow|Yellow|Yellow|]
+ROUND3: 2561 Ms [|Yellow|Yellow|Red|Yellow|GREEN|GREEN|Yellow|GREEN|]
+ROUND4: 3098 Ms [|GREEN|Red|GREEN|GREEN|Yellow|Red|GREEN|Yellow|]
+!!!!!!ROUND5: 4017 Ms [|GREEN|Red|Red|Red|GREEN|GREEN|Red|GREEN|]
+ROUND6: 2779 Ms [|Red|GREEN|Yellow|GREEN|GREEN|GREEN|GREEN|Red|]
+************************************************************************************
+NAME:7
+ROUND0: 3573 Ms [|Yellow|GREEN|Red|GREEN|Yellow|Red|Red|Yellow|]
+ROUND1: 2151 Ms [|Red|Red|Red|Yellow|Yellow|Red|Red|GREEN|]
+ROUND2: 2489 Ms [|Yellow|GREEN|Red|Red|Red|GREEN|GREEN|Yellow|]
+ROUND3: 2318 Ms [|Red|Yellow|Red|Yellow|Yellow|Yellow|Red|Yellow|]
+ROUND4: 2375 Ms [|Red|Red|Red|Red|GREEN|Red|Yellow|Yellow|]
+ROUND5: 2406 Ms [|Yellow|Yellow|Yellow|GREEN|Yellow|Red|Red|Yellow|]
+ROUND6: 2216 Ms [|Red|Red|Red|GREEN|Red|Red|GREEN|Red|]
+************************************************************************************
+NAME:8
+ROUND0: 23931 Ms [|GREEN|Yellow|GREEN|GREEN|GREEN|GREEN|Yellow|GREEN|]
+ROUND1: 3105 Ms [|Yellow|Red|Yellow|Red|Yellow|GREEN|GREEN|GREEN|]
+ROUND2: 3389 Ms [|GREEN|Red|GREEN|GREEN|Yellow|Red|GREEN|Yellow|]
+ROUND3: 3578 Ms [|Yellow|Yellow|Red|GREEN|Yellow|Red|Red|Yellow|]
+ROUND4: 3815 Ms [|Yellow|Yellow|Red|GREEN|Yellow|Red|Red|Yellow|]
+ROUND5: 3459 Ms [|Yellow|Red|GREEN|Red|Yellow|GREEN|Yellow|Yellow|]
+ROUND6: 3665 Ms [|Yellow|GREEN|Red|Red|Yellow|GREEN|Red|Yellow|]
+************************************************************************************
+NAME:
+************************************************************************************
+
+

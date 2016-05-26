@@ -1,0 +1,78 @@
+
+                         DATA FOR PHYSICAL EXPERIENCE (SEQUENCE OF 4 COLORS)
+
+
+NAME:1
+ROUND0: 267 Ms [|GREEN|GREEN|GREEN|GREEN|]
+ROUND1: 294 Ms [|Yellow|Yellow|Yellow|Yellow|]
+ROUND2: 190 Ms [|Red|Red|Red|Yellow|]
+ROUND3: 495 Ms [|GREEN|Red|Red|Red|]
+ROUND4: 480 Ms [|Red|GREEN|Red|GREEN|]
+ROUND5: 349 Ms [|GREEN|GREEN|GREEN|Red|]
+ROUND6: 394 Ms [|GREEN|Red|Red|Red|]
+************************************************************************************
+NAME:2
+ROUND0: 1008 Ms [|GREEN|GREEN|Yellow|Red|]
+ROUND1: 611 Ms [|Red|Red|GREEN|GREEN|]
+ROUND2: 1176 Ms [|Red|Red|Red|GREEN|]
+ROUND3: 302 Ms [|Red|GREEN|GREEN|GREEN|]
+ROUND4: 516 Ms [|Red|Red|Red|Yellow|]
+ROUND5: 603 Ms [|Yellow|Red|Red|Yellow|]
+ROUND6: 683 Ms [|Red|Yellow|Yellow|Red|]
+************************************************************************************
+NAME:3
+ROUND0: 785 Ms [|Red|Red|Yellow|Red|]
+ROUND1: 351 Ms [|GREEN|GREEN|GREEN|GREEN|]
+ROUND2: 408 Ms [|GREEN|GREEN|GREEN|Red|]
+ROUND3: 1337 Ms [|Yellow|Red|GREEN|Yellow|]
+ROUND4: 318 Ms [|Yellow|GREEN|GREEN|Yellow|]
+!!!!ROUND5: 1774 Ms [|GREEN|Red|GREEN|GREEN|]
+!!!!ROUND6: 101 Ms [|Yellow|Red|Red|Red|]
+************************************************************************************
+NAME:4
+ROUND0: 1290 Ms [|Yellow|Red|GREEN|Yellow|]
+ROUND1: 711 Ms [|GREEN|Yellow|Yellow|Yellow|]
+ROUND2: 913 Ms [|GREEN|Yellow|Yellow|GREEN|]
+ROUND3: 807 Ms [|GREEN|Yellow|GREEN|Yellow|]
+ROUND4: 736 Ms [|GREEN|GREEN|Red|GREEN|]
+ROUND5: 743 Ms [|Yellow|Red|Yellow|Yellow|]
+ROUND6: 689 Ms [|GREEN|Red|GREEN|GREEN|]
+************************************************************************************
+NAME:5
+ROUND0: 1013 Ms [|GREEN|GREEN|Red|GREEN|]
+!!!!ROUND1: 1013 Ms [|Yellow|Yellow|GREEN|Red|]
+ROUND2: 1115 Ms [|GREEN|Yellow|Red|Yellow|]
+ROUND3: 1088 Ms [|GREEN|Yellow|Red|GREEN|]
+ROUND4: 941 Ms [|GREEN|Red|Red|GREEN|]
+ROUND5: 394 Ms [|Yellow|Yellow|Red|Red|]
+ROUND6: 620 Ms [|Yellow|Red|Yellow|Red|]
+************************************************************************************
+NAME:6
+ROUND0: 1012 Ms [|Yellow|Yellow|Yellow|GREEN|]
+ROUND1: 1004 Ms [|Red|Yellow|Yellow|GREEN|]
+ROUND2: 757 Ms [|GREEN|GREEN|GREEN|Red|]
+ROUND3: 359 Ms [|GREEN|GREEN|GREEN|GREEN|]
+ROUND4: 251 Ms [|Yellow|Red|Red|GREEN|]
+ROUND5: 705 Ms [|Red|Red|Yellow|Yellow|]
+ROUND6: 582 Ms [|Red|Yellow|Red|GREEN|]
+************************************************************************************
+NAME:7
+ROUND0: 133 Ms [|GREEN|GREEN|GREEN|GREEN|]
+ROUND1: 670 Ms [|Yellow|Red|Red|GREEN|]
+ROUND2: 880 Ms [|Yellow|Yellow|GREEN|Red|]
+!!!ROUND3: 3637 Ms [|Red|Red|Red|GREEN|]
+ROUND4: 541 Ms [|GREEN|Red|GREEN|GREEN|]
+ROUND5: 539 Ms [|GREEN|GREEN|Red|GREEN|]
+ROUND6: 539 Ms [|GREEN|GREEN|Red|Red|]
+************************************************************************************
+NAME:8
+ROUND0: 952 Ms [|Yellow|GREEN|GREEN|Yellow|]
+ROUND1: 447 Ms [|Yellow|GREEN|GREEN|GREEN|]
+ROUND2: 687 Ms [|GREEN|GREEN|GREEN|Red|]
+ROUND3: 261 Ms [|Red|Red|Red|Red|]
+ROUND4: 443 Ms [|Yellow|Yellow|Red|Red|]
+ROUND5: 346 Ms [|Red|Red|Red|Red|]
+ROUND6: 362 Ms [|Red|GREEN|GREEN|GREEN|]
+************************************************************************************
+NAME:
+************************************************************************************
